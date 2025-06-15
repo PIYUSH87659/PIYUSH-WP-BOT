@@ -25,7 +25,7 @@ const { fromBuffer } = require('file-type')
 const bodyparser = require('body-parser')
 const mongoose = require('mongoose')
 
-const ownerNumber = ['923192173398']
+const ownerNumber = ['918542869382']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/wasi_baileys/creds.json')) {
